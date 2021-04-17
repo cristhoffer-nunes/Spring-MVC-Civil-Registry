@@ -22,7 +22,7 @@
 
 ## Baixando o repositório:
 
-Para baixar esse repositório no seu computador, rode o código abaixo ou clique em [download](https://github.com/cristhoffer-nunes/Spring-MVC-Civil-Registry/archive/main.zip).
+Para baixar esse repositório no seu computador, rode o código abaixo ou clique em [download](https://github.com/cristhoffer-nunes/Spring-MVC-Civil-Registry/archive/refs/heads/master.zip).
 
 ```bash
 $ git clone https://github.com/cristhoffer-nunes/Spring-MVC-Civil-Registry.git
