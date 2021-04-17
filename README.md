@@ -43,19 +43,19 @@ Feito as configurações necessárias execute o projeto e acesse a seguinte url:
 
 > Por padrão todos os cartórios adicionados serão exibidos na página inicial.
 
-## Adicionando um cartório
+## Adicionar um cartório
 
 > Clique no botão **Adicionar cartório** e insira as informações necessárias, após isto clique em **Salvar cartório**.
 
 ![Add](https://github.com/cristhoffer-nunes/SpringMVC-System/blob/master/readme_gifs/add.gif)
 
-## Alterando os dados
+## Alterar os dados
 
 > Clique no botão **Atualizar** e insira as informações necessárias, após isto clique em **Atualizar cartório**.
 
 ![Update](https://github.com/cristhoffer-nunes/SpringMVC-System/blob/master/readme_gifs/atualizar.gif)
 
-## Excluindo um cartório
+## Excluir um cartório
 > Clique no botão **Excluir** que o cartório será excluído automaticamente.
 
 ![Delete](https://github.com/cristhoffer-nunes/SpringMVC-System/blob/master/readme_gifs/deletar.gif)
