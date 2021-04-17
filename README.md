@@ -22,10 +22,10 @@
 
 ## Baixando o repositório:
 
-Para baixar esse repositório no seu computador, rode o código abaixo ou clicke em [download](https://github.com/cristhoffer-nunes/API-REST-Docket/archive/main.zip).
+Para baixar esse repositório no seu computador, rode o código abaixo ou clique em [download](https://github.com/cristhoffer-nunes/API-REST-Docket/archive/main.zip).
 
 ```bash
-$ git clone https://github.com/cristhoffer-nunes/SpringMVC-System.git
+$ git clone https://github.com/cristhoffer-nunes/Spring-MVC-Civil-Registry.git
 ```
 
 ## Configurando e iniciando o projeto: 
