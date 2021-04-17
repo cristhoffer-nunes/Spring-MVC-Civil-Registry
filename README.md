@@ -5,7 +5,7 @@
 **Planejamento do projeto:** Foi utiizado o Trello como forma de organização para separar as etapas do projeto, tendo como fonte de pesquisa o [Java Guides](https://www.javaguides.net/), 
 [Thymeleaf](https://www.thymeleaf.org/) e utilização de projetos pessoais para a realização das tarefas.
 
-![Apresentação](https://github.com/cristhoffer-nunes/SpringMVC-System/blob/master/readme_gifs/geral.gif)
+![Apresentação](https://github.com/cristhoffer-nunes/Spring-MVC-Civil-Registry/blob/master/readme_gifs/geral.gif)
 
 ## Tecnologias
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -22,7 +22,7 @@
 
 ## Baixando o repositório:
 
-Para baixar esse repositório no seu computador, rode o código abaixo ou clique em [download](https://github.com/cristhoffer-nunes/API-REST-Docket/archive/main.zip).
+Para baixar esse repositório no seu computador, rode o código abaixo ou clique em [download](https://github.com/cristhoffer-nunes/Spring-MVC-Civil-Registry/archive/main.zip).
 
 ```bash
 $ git clone https://github.com/cristhoffer-nunes/Spring-MVC-Civil-Registry.git
@@ -47,7 +47,7 @@ Feito as configurações necessárias execute o projeto e acesse a seguinte url:
 
 > Clique no botão **Adicionar cartório** e insira as informações necessárias, após isto clique em **Salvar cartório**.
 
-![Add](https://github.com/cristhoffer-nunes/SpringMVC-System/blob/master/readme_gifs/add.gif)
+![Add](https://github.com/cristhoffer-nunes/Spring-MVC-Civil-Registry/blob/master/readme_gifs/add.gif)
 
 ## Alterar os dados
 
@@ -58,4 +58,4 @@ Feito as configurações necessárias execute o projeto e acesse a seguinte url:
 ## Excluir um cartório
 > Clique no botão **Excluir** que o cartório será excluído automaticamente.
 
-![Delete](https://github.com/cristhoffer-nunes/SpringMVC-System/blob/master/readme_gifs/deletar.gif)
+![Delete](https://github.com/cristhoffer-nunes/Spring-MVC-Civil-Registry/blob/master/readme_gifs/deletar.gif)
