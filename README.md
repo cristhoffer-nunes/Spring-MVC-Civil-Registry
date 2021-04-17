@@ -53,7 +53,7 @@ Feito as configurações necessárias execute o projeto e acesse a seguinte url:
 
 > Clique no botão **Atualizar** e insira as informações necessárias, após isto clique em **Atualizar cartório**.
 
-![Update](https://github.com/cristhoffer-nunes/SpringMVC-System/blob/master/readme_gifs/atualizar.gif)
+![Update](https://github.com/cristhoffer-nunes/Spring-MVC-Civil-Registry/blob/master/readme_gifs/atualizar.gif)
 
 ## Excluir um cartório
 > Clique no botão **Excluir** que o cartório será excluído automaticamente.
