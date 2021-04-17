@@ -39,7 +39,7 @@ spring.datasource.password=**INSIRA SUA SENHA DO MYSQL** <br>
 Feito as configurações necessárias execute o projeto e acesse a seguinte url:
 > http://localhost:8080
 
-## Consultando os cartórios
+## Consultar os cartórios
 
 > Por padrão todos os cartórios adicionados serão exibidos na página inicial.
 
