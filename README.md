@@ -41,7 +41,7 @@ Feito as configurações necessárias execute o projeto e acesse a seguinte url:
 
 ## Consultando os cartórios
 
-* Por padrão todos os cartórios adicionados serão exibidos na página inicial.
+> Por padrão todos os cartórios adicionados serão exibidos na página inicial.
 
 ## Adicionando um cartório
 
