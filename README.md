@@ -1,4 +1,5 @@
 # Sistema de Cartórios
+![MIT](https://img.shields.io/github/license/cristhoffer-nunes/Spring-MVC-Civil-Registry)
 
 **API Rest para um sistema de cartórios**
 
